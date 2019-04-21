@@ -2,8 +2,6 @@
 
 [建立 linked list 觀念](https://www.youtube.com/watch?v=dmezFFv522I)
 
-![a38422c5e0ed853713719ddd735d5c83.gif](evernotecid://D1A653E7-49A2-469A-973A-3DF99F4A2CBB/wwwevernotecom/13946419/ENResource/p3578)
-
 ### 時間與空間複雜度
 
 ```
