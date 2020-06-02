@@ -2,6 +2,8 @@
 tags: ['tag1', 'tag2', 'tag3 is here']
 ---
 
+tags: tag1, tag2, tag3 is here
+
 ## 基本知識
 
 ### Tree 的 Traversal 方式
