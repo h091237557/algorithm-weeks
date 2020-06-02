@@ -1,6 +1,5 @@
 # Summary
 
-* [Tags](tags.md)
 * [Linked list](linked-list/index.md)
     * [20190417-20190414](linked-list/20190417_20190424.md)
 * [BFS](bfs/index.md)
@@ -23,4 +22,5 @@
     * [20190702-20190709](dp/20190702_20190709.md)
 * [Graph](graph/index.md)
     * [20190710-20190717](graph/20190710_20190717.md)
+* [Tags](tags.md)
 
